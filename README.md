@@ -1,3 +1,8 @@
+## Below is the deployed URL Using netlify
+https://vocal-choux-4866f3.netlify.app/
+
+## Post clone need to install below dependencies and set firebase config
+
 ## Install dependencies
 
 In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
